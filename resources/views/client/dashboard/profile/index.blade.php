@@ -17,7 +17,7 @@
                     <img src="/image/assets/user.png" alt="" srcset="" style="width: 100%">
                 </div>
                 <div class="mt-3">
-                    <small class="text-secondary text-uppercase">Menu</small>
+                    <small class="text-secondary text-uppercase">Menu Utama</small>
                     <ul class="nav flex-column" id="profileTab" role="tablist">
                         <li class="nav-item" role="presentation">
                           <a class="nav-link active" id="personalInfo-tab" data-toggle="tab" href="#personalInfo" role="tab" aria-controls="personalInfo" aria-selected="true">Informasi pribadi</a>
@@ -55,7 +55,7 @@
                         {{ $user->kabupaten }}, {{ $user->kodepos }}</p>
                 </div>
                 <div class="mb-4">
-                    <small class="text-muted"><span class="text-uppercase mr-3">Saldo Makarya Anda</span>
+                    <small class="text-muted"><span class="text-uppercase mr-3">Saldo Makarya Anda lol</span>
                     </small>
                     <h4>Rp.{{ $saldo }}</h4>
 
